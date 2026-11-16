@@ -18,4 +18,3 @@
 | Hallway         |   |   |   |   |   |   | x |
 | Office          |   |   |   | x |   |   |   |
 | Study           |   |   |   | x |   |   |   |
-| Closet          |   |   |   |   |   |   |   |
